@@ -182,6 +182,7 @@ h1.header-title {
 
 
 
+
 .button {
    width:140px;
    height: 31px;
@@ -292,17 +293,4 @@ p.product_description{
     background-repeat: no-repeat;
 
     margin:20px auto;
-}
-.side{
-    background: #000000;
-    border: 1px solid #000000;
-    box-sizing: border-box;
-    border-radius: 3px;
-    margin: 20px auto;
-    border-radius:8px;
-    transition:0.3s;
-}
-.side:hover {
-    background: #343444;
-    cursor: pointer;
 }
