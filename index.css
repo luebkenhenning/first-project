@@ -294,3 +294,14 @@ p.product_description{
 
     margin:20px auto;
 }
+.programm{
+    background: #000000;
+    color: white;
+    border-color: #ffffff;
+    border-width: 30px;
+    border-radius: 20px;
+    align-content: center;
+    margin: 30px 30px;
+    width: 300px;
+    height:400px;
+}
