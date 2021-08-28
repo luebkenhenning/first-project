@@ -158,9 +158,10 @@ h1.header-title {
 }
 
 .divider {
-    width:100%;
+    width:auto;
     height:0px;
     border: 1px solid #343444;
+    
 }
 
 .panel {
@@ -169,7 +170,7 @@ h1.header-title {
     box-sizing: border-box;
     border-radius: 3px;
     margin: 30px 30px;
-    border-radius:8px;
+    border-right:50px;
     transition:0.3s;
 }
 .panel:hover {
@@ -304,4 +305,9 @@ p.product_description{
     margin: 30px 30px;
     width: 300px;
     height:400px;
+    transition: 0.5s;
+}
+.programm:hover{
+    background-color: #343444;
+    cursor: pointer;
 }
