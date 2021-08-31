@@ -325,3 +325,8 @@ p.product_description{
     background-color: #343444;
     cursor: pointer;
 }
+.camera{
+    border-color: #979797;
+    border-width: 5px;
+    margin-top: 30px;
+}
