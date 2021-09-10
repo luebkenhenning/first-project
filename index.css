@@ -345,8 +345,8 @@ p.product_description{
     overflow: hidden;
   }
   .dropdown .dropbtn {
-    height: auto;
-    width: auto;
+    height: 12px;
+    width: 12px;
     font-size: 16px;
     border: none;
     outline: none;
@@ -354,12 +354,12 @@ p.product_description{
     padding: 14px 16px;
     background-color: none;
     font-family: inherit;
-    margin: 0; 
+    margin: 10px 10px; 
     background-image:url("images.png");
 }
 .dropbtn:hover{
-    height: 9px;
-    width: 9px;
+    height: 12px;
+    width: 12px;
     font-size: 16px;
     border: none;
     outline: none;
@@ -367,8 +367,9 @@ p.product_description{
     padding: 14px 16px;
     background-color: none;
     font-family: inherit;
-    margin: 0; 
+    margin: 10px 10px; 
     background-image:url("Download.png");
+    cursor: pointer;
 }
 .dropdown-content {
     display: none;
