@@ -253,7 +253,7 @@ h1.header-title {
     border-radius:5px;
 
 
-    background-image: url("helloooo.png");
+    background-image: url("css.png");
     background-position: center;
     background-size: cover;
 
@@ -268,7 +268,7 @@ h1.header-title {
     border-radius: 5px;
     
 
-    background-image: url("helloooo.png");
+    background-image: url("css.png");
     background-position: center;
     background-size: cover;
 
@@ -301,14 +301,16 @@ p.product_description{
     border-radius:5px;
 
 
-    background-image: url("/zhong-bian.wuemeli.com/favi.PNG");
+    background-image: url("favi.PNG");
     background-position: center;
     background-size: cover;
 
     background-repeat: no-repeat;
 
-    margin:20px auto;
+    margin-top:10px;
+    margin-bottom: 20px;
 }
+
 .programm{
     background: #000000;
     color: white;
