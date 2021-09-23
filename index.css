@@ -327,21 +327,6 @@ p.product_description{
     background-color: #343444;
     cursor: pointer;
 }
-.camera{
-
-    border-color: #343444;
-    border-width: 5px;
-    margin-top: 25px;
-    margin-left: 15px;
-    margin-right: 15px;
-    background-color: #343444;
-    align-self: center;
-}
-.camera:hover{
-    border-color: #000000;
-    cursor: pointer;
-    background-color: #000000;
-}
 .dropdown {
     float: left;
     overflow: hidden;
